@@ -1,7 +1,7 @@
 {
   "name": "counter",
   "private": true,
-  "homepage": "https://Kaushik92Tripathi.github.io/Day2",
+  "homepage": "https://kaushik92tripathi.github.io/Day2",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -13,8 +13,8 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
